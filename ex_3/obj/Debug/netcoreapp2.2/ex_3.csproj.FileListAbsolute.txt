@@ -1,0 +1,11 @@
+C:\Users\44036901818\Documents\1º Termo\exercícios\ex_3\obj\Debug\netcoreapp2.2\ex_3.csprojAssemblyReference.cache
+C:\Users\44036901818\Documents\1º Termo\exercícios\ex_3\obj\Debug\netcoreapp2.2\ex_3.csproj.CoreCompileInputs.cache
+C:\Users\44036901818\Documents\1º Termo\exercícios\ex_3\obj\Debug\netcoreapp2.2\ex_3.AssemblyInfoInputs.cache
+C:\Users\44036901818\Documents\1º Termo\exercícios\ex_3\obj\Debug\netcoreapp2.2\ex_3.AssemblyInfo.cs
+C:\Users\44036901818\Documents\1º Termo\exercícios\ex_3\bin\Debug\netcoreapp2.2\ex_3.deps.json
+C:\Users\44036901818\Documents\1º Termo\exercícios\ex_3\bin\Debug\netcoreapp2.2\ex_3.runtimeconfig.json
+C:\Users\44036901818\Documents\1º Termo\exercícios\ex_3\bin\Debug\netcoreapp2.2\ex_3.runtimeconfig.dev.json
+C:\Users\44036901818\Documents\1º Termo\exercícios\ex_3\bin\Debug\netcoreapp2.2\ex_3.dll
+C:\Users\44036901818\Documents\1º Termo\exercícios\ex_3\bin\Debug\netcoreapp2.2\ex_3.pdb
+C:\Users\44036901818\Documents\1º Termo\exercícios\ex_3\obj\Debug\netcoreapp2.2\ex_3.dll
+C:\Users\44036901818\Documents\1º Termo\exercícios\ex_3\obj\Debug\netcoreapp2.2\ex_3.pdb
