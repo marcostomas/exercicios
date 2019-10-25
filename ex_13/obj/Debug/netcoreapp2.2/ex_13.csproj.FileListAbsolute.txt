@@ -1,0 +1,11 @@
+C:\Users\44036901818\Documents\1º Termo\exercicios\ex_13\obj\Debug\netcoreapp2.2\ex_13.csprojAssemblyReference.cache
+C:\Users\44036901818\Documents\1º Termo\exercicios\ex_13\obj\Debug\netcoreapp2.2\ex_13.csproj.CoreCompileInputs.cache
+C:\Users\44036901818\Documents\1º Termo\exercicios\ex_13\obj\Debug\netcoreapp2.2\ex_13.AssemblyInfoInputs.cache
+C:\Users\44036901818\Documents\1º Termo\exercicios\ex_13\obj\Debug\netcoreapp2.2\ex_13.AssemblyInfo.cs
+C:\Users\44036901818\Documents\1º Termo\exercicios\ex_13\bin\Debug\netcoreapp2.2\ex_13.deps.json
+C:\Users\44036901818\Documents\1º Termo\exercicios\ex_13\bin\Debug\netcoreapp2.2\ex_13.runtimeconfig.json
+C:\Users\44036901818\Documents\1º Termo\exercicios\ex_13\bin\Debug\netcoreapp2.2\ex_13.runtimeconfig.dev.json
+C:\Users\44036901818\Documents\1º Termo\exercicios\ex_13\bin\Debug\netcoreapp2.2\ex_13.dll
+C:\Users\44036901818\Documents\1º Termo\exercicios\ex_13\bin\Debug\netcoreapp2.2\ex_13.pdb
+C:\Users\44036901818\Documents\1º Termo\exercicios\ex_13\obj\Debug\netcoreapp2.2\ex_13.dll
+C:\Users\44036901818\Documents\1º Termo\exercicios\ex_13\obj\Debug\netcoreapp2.2\ex_13.pdb
