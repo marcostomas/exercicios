@@ -11,13 +11,17 @@ namespace ex_8 {
                 Console.WriteLine ("Digite a altura do triângulo");
                 int h = int.Parse (Console.ReadLine ());
 
-                int n = 1;
+                for (int i = 0; i <= h; i = i -1) {
+                    for(int n = 0; n < i ; i++){
+                        System.Console.WriteLine("/*");
+                    }
+                }
 
-                for (int i = 0; i < h; i++) {
-                    string estrelas = "*";
-                    Console.WriteLine (estrelas);
-                    System.Console.WriteLine();
-                    for(int i =)
+                System.Console.WriteLine("Deseja Sair S/N ?");
+                opcao = Console.ReadLine();
+                
+                if (opcao == "s"){
+                    exit = true;
                 }
             }while (!exit);
         }
