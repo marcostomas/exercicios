@@ -1,0 +1,4 @@
+C:\Users\44036901818\Documents\1º Termo\exercicios\ex_21\obj\Debug\netcoreapp2.2\ex_21.csprojAssemblyReference.cache
+C:\Users\44036901818\Documents\1º Termo\exercicios\ex_21\obj\Debug\netcoreapp2.2\ex_21.csproj.CoreCompileInputs.cache
+C:\Users\44036901818\Documents\1º Termo\exercicios\ex_21\obj\Debug\netcoreapp2.2\ex_21.AssemblyInfoInputs.cache
+C:\Users\44036901818\Documents\1º Termo\exercicios\ex_21\obj\Debug\netcoreapp2.2\ex_21.AssemblyInfo.cs
